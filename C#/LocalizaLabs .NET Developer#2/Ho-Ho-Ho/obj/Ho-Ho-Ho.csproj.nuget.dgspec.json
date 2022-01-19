@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
         "projectName": "Ho-Ho-Ho",
-        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
