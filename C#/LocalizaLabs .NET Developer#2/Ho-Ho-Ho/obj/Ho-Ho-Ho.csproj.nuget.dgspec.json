@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
+        "projectName": "Ho-Ho-Ho",
+        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\Ho-Ho-Ho.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Ho-Ho-Ho\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
