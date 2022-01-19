@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj",
         "projectName": "Dividindo X por Y",
-        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\Dividindo X por Y.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\Dividindo X por Y\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
