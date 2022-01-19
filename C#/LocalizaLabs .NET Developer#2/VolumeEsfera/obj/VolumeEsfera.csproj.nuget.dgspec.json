@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj",
         "projectName": "VolumeEsfera",
-        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\VolumeEsfera.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\LocalizaLabs .NET Developer#2\\VolumeEsfera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
