@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.exe
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.deps.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\bin\Debug\netcoreapp3.1\Mes.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\obj\Debug\netcoreapp3.1\Mes.genruntimeconfig.cache

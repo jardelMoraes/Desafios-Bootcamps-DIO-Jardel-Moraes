@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj",
         "projectName": "Mes",
-        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Mes.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
