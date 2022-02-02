@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.exe
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.deps.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\bin\Debug\netcoreapp3.1\SomaParesConsecutivos.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Soma de Pares Consecutivos\obj\Debug\netcoreapp3.1\SomaParesConsecutivos.genruntimeconfig.cache
