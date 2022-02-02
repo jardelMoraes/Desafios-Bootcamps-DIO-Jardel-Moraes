@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.exe
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.deps.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\QuadradoECubo.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\QuadradoECubo.genruntimeconfig.cache
