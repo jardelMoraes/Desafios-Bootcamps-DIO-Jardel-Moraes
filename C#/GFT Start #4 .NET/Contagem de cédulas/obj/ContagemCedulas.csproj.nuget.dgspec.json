@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj",
         "projectName": "ContagemCedulas",
-        "projectPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\ContagemCedulas.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\Desafios-Bootcamps-DIO-Jardel-Moraes\\C#\\GFT Start #4 .NET\\Contagem de cédulas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"

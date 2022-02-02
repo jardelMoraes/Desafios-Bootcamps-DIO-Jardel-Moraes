@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.exe
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.deps.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\bin\Debug\netcoreapp3.1\ContagemCedulas.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.dll
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.pdb
+C:\Users\Windows 10\Documents\GitHub\Desafios-Bootcamps-DIO-Jardel-Moraes\C#\GFT Start #4 .NET\Contagem de cédulas\obj\Debug\netcoreapp3.1\ContagemCedulas.genruntimeconfig.cache
